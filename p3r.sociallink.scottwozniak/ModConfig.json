@@ -1,8 +1,8 @@
 {
   "ModId": "p3r.sociallink.scottwozniak",
   "ModName": "Hey all, Scott here.",
-  "ModAuthor": "MrCamel999 \u0026 austinleroy",
-  "ModVersion": "0.1.0",
+  "ModAuthor": "MrCamel999, austinleroy, \u0026 A Mudkip",
+  "ModVersion": "0.8.0",
   "ModDescription": "Rewrite of the Fortune social link in Persona 3 Reload. Replaces only text and bustups. Model replacement in separate mod. ",
   "ModDll": "",
   "ModIcon": "Scott.jpg",
