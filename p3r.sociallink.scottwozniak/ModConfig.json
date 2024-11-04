@@ -2,7 +2,7 @@
   "ModId": "p3r.sociallink.scottwozniak",
   "ModName": "Hey all, Scott here.",
   "ModAuthor": "MrCamel999, austinleroy, \u0026 A Mudkip",
-  "ModVersion": "0.8.0",
+  "ModVersion": "1.0.0",
   "ModDescription": "Rewrite of the Fortune social link in Persona 3 Reload. Replaces only text and bustups. Model replacement in separate mod. ",
   "ModDll": "",
   "ModIcon": "Scott.jpg",
@@ -104,6 +104,10 @@
           "ReleaseMetadataName": "UTOC.Stream.Emulator.ReleaseMetadata.json"
         }
       }
+    },
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 553588
     }
   },
   "IsUniversalMod": false,
